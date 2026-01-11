@@ -13,8 +13,6 @@
 
 </div>
 
-<!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/animated-line.svg" width="100%" />
 
 
 ---
@@ -30,8 +28,6 @@
 - ⚡ Fun fact: **I edit videos, learn new stuff, and still find time to pet my cat 😄**  
 - 👨‍💻 All my projects → **https://github.com/deepdas2607**
 
-<!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/animated-line.svg" width="100%" />
 
 
 ---
@@ -48,9 +44,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40" />
   </a>
 </div>
-
-<!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/animated-line.svg" width="100%" />
 
 
 ---
@@ -82,8 +75,6 @@
 
 </div>
 
-<!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/animated-line.svg" width="100%" />
 
 ---
 
@@ -95,8 +86,6 @@
 </picture>
 </div>
 
-<!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/animated-line.svg" width="100%" />
 
 ---
 
