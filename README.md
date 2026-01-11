@@ -61,7 +61,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="45" />
-  <img src="https://raw.githubusercontent.com/opencv/opencv/4.x/doc/opencv-logo.svg" height="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" />
 </div>
