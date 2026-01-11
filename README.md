@@ -14,7 +14,7 @@
 </div>
 
 <!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/main/animated-line.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/animated-line.svg" width="100%" />
 
 
 ---
@@ -31,7 +31,7 @@
 - 👨‍💻 All my projects → **https://github.com/deepdas2607**
 
 <!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/main/animated-line.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/animated-line.svg" width="100%" />
 
 
 ---
@@ -50,7 +50,7 @@
 </div>
 
 <!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/main/animated-line.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/animated-line.svg" width="100%" />
 
 
 ---
@@ -83,7 +83,7 @@
 </div>
 
 <!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/main/animated-line.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/animated-line.svg" width="100%" />
 
 ---
 
@@ -96,7 +96,7 @@
 </div>
 
 <!-- 🌈 Animated Divider -->
-<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/main/animated-line.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/deepdas2607/deepdas2607/animated-line.svg" width="100%" />
 
 ---
 
